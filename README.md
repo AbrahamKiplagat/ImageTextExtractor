@@ -12,3 +12,5 @@ In many scenarios, important information is locked away in images, such as scann
 - **Crop images**: Select specific areas of the image to focus on for text extraction, ensuring greater accuracy.
 - **Extract text using Tesseract.js**: Convert image-based text into editable content with the power of OCR.
 - **User-friendly interface**: Intuitive design with real-time feedback on the text extraction process.
+## screenshot
+![crop](https://github.com/user-attachments/assets/27438567-398c-4971-bac5-47c5d540eb75)
